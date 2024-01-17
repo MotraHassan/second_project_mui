@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+  .myList {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    z-index: 5;
+  }
+  .dark .myList{
+    background-color: #212121 !important;
+  }
